@@ -1,7 +1,6 @@
 package com.game.controller;
 
 import com.game.entity.Player;
-import com.game.entity.PlayerOrder;
 import com.game.entity.Profession;
 import com.game.entity.Race;
 import com.game.service.PlayerService;
